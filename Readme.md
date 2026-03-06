@@ -3,7 +3,7 @@
 
 ## 项目概述
 
-CRID Parser 是一个基于 ESP-IDF 的 WiFi 信标解析器，专门用于解析 WiFi 帧中的中国远程识别（CRID）信标。该项目支持 GB42590 和 GB46750(后续支持) 中国 RID 协议，目标平台为 ESP32、ESP32-S3，能够实时捕获和解析无人机远程 ID 信息。
+China Remote ID  Parser 是一个基于 ESP-IDF 的 WiFi 信标解析器，专门用于解析 WiFi 帧中的中国远程识别（CRID）信标。该项目支持 GB42590 和 GB46750(后续支持) 中国 RID 协议，目标平台为 ESP32、ESP32-S3，能够实时捕获和解析无人机远程 ID 信息。
 
 ### 主要功能
 
